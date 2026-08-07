@@ -24,9 +24,9 @@ Amazon Simple Notification Service (SNS) is configured to send deployment and in
 
 ## Key Features
 
-* Secure application deployment using AWS IAM Roles
-* Centralized application storage with Amazon S3
-* Custom AMIs for faster and consistent server provisioning
+* Secure application deployment using AWS IAM Roles.
+* Centralized application storage with Amazon S3.
+* Custom AMIs for faster and consistent server provisioning.
 * Automated notifications using Amazon SNS.
 * Scalable and production-oriented AWS architecture.
 * Infrastructure designed following AWS security best practices.
