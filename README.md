@@ -45,8 +45,8 @@ Amazon Simple Notification Service (SNS) is configured to send deployment and in
 
 This project strengthened my understanding of:
 
-* Secure authentication between AWS services using IAM Roles
-* Managing deployment assets with Amazon S3
+* Secure authentication between AWS services using IAM Roles.
+* Managing deployment assets with Amazon S3.
 * Creating reusable machine images for rapid infrastructure provisioning.
 * Configuring cloud-based notification services with SNS.
 * Building and deploying applications using AWS production best practices.
